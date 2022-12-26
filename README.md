@@ -14,3 +14,5 @@
 12. Comments classifier (NLP) - классификатор для поиска токсичных комментариев в описании товаров
 13. Buyers age determination - определение возраста покупателей по фото
 14. Customer Exit Prediction (Telecom) - прогнозирование оттока клиентов телеком-компании
+15. Parsing and research hh - сбор данных о вакансиях с hh.ru и их анализ
+16. Data Engineer jobs analysis - анализ вакансий Data Engineer по датасету с kaggle
