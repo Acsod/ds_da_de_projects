@@ -3,7 +3,7 @@
 
 | № |Название|Цель и задачи|Инструменты|
 | :-: | :--------------------: | :---------------------:|:-----------------------|
-|1| [Research for a video game store](https://github.com/Acsod/ds_da_de_projects/tree/main/1.%20Research%20for%20a%20video%20game%20store) | Выявить закономерности, определяющие успешность игры | Python, Pandas |
+|1| [Research for a video game store](https://github.com/Acsod/ds_da_de_projects/tree/main/1.%20Research%20for%20a%20video%20game%20store) | Выявить закономерности, определяющие успешность игры | Python, Pandas, matplotlib, scipy |
 |2| [Gold recovery](https://github.com/Acsod/ds_da_de_projects/tree/main/2.%20Gold%20recovery) | Спрогнозировать коэффициент восстановления золота из золотосодержащей руды | Python, Pandas, Matplotlib, NumPy, Scikit-learn|
 |3| [Borrower trustability](https://github.com/Acsod/ds_da_de_projects/tree/main/3.%20Borrower%20trustability) | Исследовать влияние СП и кол-ва детей на факт возврата кредита в срок | Python, Pandas |
 |4| [Research of apartments for sale](https://github.com/Acsod/ds_da_de_projects/tree/main/4.%20Research%20of%20apartments%20for%20sale) | Исследовать объявления о продаже квартир | Python, Pandas, Matplotlib |
