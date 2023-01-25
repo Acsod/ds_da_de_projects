@@ -8,6 +8,6 @@
 
 Python, Pandas, scipy
 
-**Вывды**
+**Вывод**
 
 Наиболее успешны и популярны игры для платформ XOne и PS4 в жанрах Shooter, Sports и Platform

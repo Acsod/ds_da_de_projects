@@ -10,4 +10,4 @@ Pandas, Scikit-learn, lightgbm, catboost.
 
 **Вывод**
 
-Лучшей модеью стала LightGBM с RMSE 1642.19.
+Лучшей моделью стала LightGBM с RMSE 1642.19.
